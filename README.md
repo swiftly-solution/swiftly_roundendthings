@@ -1,4 +1,3 @@
-<br/>
 <p align="center">
   <a href="https://github.com/swiftly-solution/swiftly_roundendthings">
     <img src="https://cdn.swiftlycs2.net/swiftly-logo.png" alt="SwiftlyLogo" width="80" height="80">
@@ -9,15 +8,16 @@
   <p align="center">
     A Swiftly plugin that ensure effects to the players at round end event.
     <br/>
-    <br/>
-    <a href="https://github.com/swiftly-solution/swiftly_roundendthings/issues">Report Bug</a>
-    .
-    <a href="https://github.com/swiftly-solution/swiftly_roundendthings/issues">Request Feature</a>
   </p>
 </p>
 
 
-![Downloads](https://img.shields.io/github/downloads/swiftly-solution/swiftly_roundendthings/total) ![Contributors](https://img.shields.io/github/contributors/swiftly-solution/swiftly_roundendthings?color=dark-green) ![Issues](https://img.shields.io/github/issues/swiftly-solution/swiftly_roundendthings) ![License](https://img.shields.io/github/license/swiftly-solution/swiftly_roundendthings) 
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/swiftly-solution/swiftly_roundendthings/total" alt="Downloads"> 
+  <img src="https://img.shields.io/github/contributors/swiftly-solution/swiftly_roundendthings?color=dark-green" alt="Contributors">
+  <img src="https://img.shields.io/github/issues/swiftly-solution/swiftly_roundendthings" alt="Issues">
+  <img src="https://img.shields.io/github/license/swiftly-solution/swiftly_roundendthings" alt="License">
+</p>
 
 ---
 

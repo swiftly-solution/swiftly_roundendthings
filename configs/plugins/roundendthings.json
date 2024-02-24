@@ -14,6 +14,6 @@
     },
     "Messages": {
         "ReloadMessage": "{lime}[Swiftly] {default}The configuration has been {lime}reloaded{default}.",
-        "NoPremissions": "{lime}[Swiftly] {default}You don't have the {lime}permission {default}to use this command."
+        "NoPremissionsMessage": "{lime}[Swiftly] {default}You don't have the {lime}permission {default}to use this command."
     }
 }

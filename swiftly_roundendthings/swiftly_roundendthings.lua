@@ -55,8 +55,7 @@ commands:Register("ret_reload", function(playerid, args, argsCount, silent)
         end
 
         if IsAdmin == 0 then
-            config:Reload("roundendthings")
-            player:SendMsg(MessageType.Chat, config:Fetch("roundendthings.Messages.NoPremissions"))
+            player:SendMsg(MessageType.Chat, config:Fetch("roundendthings.Messages.NoPremissionsMessage"))
         end
     end
 end)
