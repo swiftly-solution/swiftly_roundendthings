@@ -27,7 +27,7 @@
 
 ### Installation 👀
 
-1. Download the newest [release](https://github.com/swiftly-solution/swiftly_roundendthings/releases).
+1. Download [swiftly admins plugin](https://github.com/swiftly-solution/swiftly_admins) (if you don't have it) and the newest [release of this plugin](https://github.com/swiftly-solution/swiftly_roundendthings/releases).
 2. Perform a drag-and-drop installation.
 3. Go in `addons/swiftly/configs/plugins/roundendthings.json` and modify the configuration as you wish.
 
@@ -39,7 +39,7 @@
 4. Push to the Branch
 5. Open a Pull Request
 
-### Have ideas? 💡
-Join [Swiftly Discord Server](https://swiftlycs2.net/discord)!
+### Have ideas/Found bugs? 💡
+Join [Swiftly Discord Server](https://swiftlycs2.net/discord) and send a message in the topic from `📕╎plugins-sharing` of this plugin!
 
 ---
