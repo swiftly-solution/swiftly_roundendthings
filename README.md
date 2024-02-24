@@ -40,6 +40,6 @@
 5. Open a Pull Request
 
 ### Have ideas? 💡
-Join [Swiftly Discord Server](https://swiftlycs2.net/discord) and share your idea in [this topic](https://discord.com/channels/1178027657594687608/1180614468498100255/threads/1210813637585936454)!
+Join [Swiftly Discord Server](https://swiftlycs2.net/discord)!
 
 ---
