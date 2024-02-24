@@ -1,0 +1,19 @@
+{
+    "Settings": {
+        "Speed": {
+            "Enable": true,
+            "SpeedValue": 1
+        },
+        "Gravity": {
+            "Enable": true,
+            "GravityValue": 1
+        },
+        "BHOP": {
+            "Enable": true
+        }
+    },
+    "Messages": {
+        "ReloadMessage": "{lime}[Swiftly] {default}The configuration has been {lime}reloaded{default}.",
+        "NoPremissions": "{lime}[Swiftly] {default}You don't have the {lime}permission {default}to use this command."
+    }
+}
